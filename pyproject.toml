@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "face-attention"
+version = "0.1.0"
+authors = [
+  {name = "Ravel Antunes", email = "ravelantunes@gmail.com"}
+]
+dependencies = [
+  "build==1.2.1",
+  "dlib==19.24.2",
+  "notebook==7.2.1",
+  "numpy==1.26.4",
+  "opencv-python==4.10.0.84"
+]
+readme = "README.md"
+requires-python = ">=3.9"
