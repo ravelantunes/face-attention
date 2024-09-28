@@ -1,4 +1,4 @@
-# Face Attention
+# Face Attention: Sample implementation of CV system to detect a person's attention towards a camera
 
 This project aims to create a system that uses facial landmarks to determine whether someone is looking towards the camera, and therefore maintaining a level of attention.
 The project consists of the following parts:
